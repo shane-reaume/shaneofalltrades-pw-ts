@@ -1,0 +1,22 @@
+{
+  "name": "shaneofalltrades-pw-ts",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript end-to-end testing framework for //shaneofalltrades.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shane-reaume/shaneofalltrades-pw-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shane-reaume/shaneofalltrades-pw-ts/issues"
+  },
+  "homepage": "https://github.com/shane-reaume/shaneofalltrades-pw-ts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
